@@ -6,3 +6,6 @@ git add
 git commit
 git remote add origin git@github.com:"fileurl"
 git push -u origin master
+
+---------------------
+git remote rm origni
